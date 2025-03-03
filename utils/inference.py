@@ -1,0 +1,1 @@
+#inference for drone clip model
